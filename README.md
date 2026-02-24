@@ -62,5 +62,3 @@ The API follows standard REST conventions. Endpoint documentation (like Swagger/
 The `application.properties` file is excluded from Git to protect sensitive information like database passwords. Always use `application.properties.example` as a reference for required configurations.
 
 ---
-
-_Built with ❤️ by Antigravity_
